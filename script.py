@@ -1,5 +1,4 @@
 # Inicialización de variables
-<<<<<<< HEAD
 n = 0 # Variable para el número actual ingresado
 c = '' # Variable para el operador
 res = 0 # Resultado acumulado de las operaciones
@@ -95,4 +94,3 @@ print('-------------------------------------------------------------------------
 print('Historial de operaciones')
 for i, h in enumerate(historial, 1):
     print(f'{i} - {h}')
->>>>>>> cf7fa82 (Calculadora Básica en Consola V2)

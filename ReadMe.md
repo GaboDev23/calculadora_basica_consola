@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Calculadora Básica en Python
 
 Este es un pequeño programa en Python que implementa una calculadora de operaciones básicas (`+`, `-`, `*`, `/`) utilizando una estructura de bucle. El usuario ingresa un número inicial, luego operadores y números sucesivos hasta finalizar con el signo igual (`=`), que termina la operación y muestra el resultado.
