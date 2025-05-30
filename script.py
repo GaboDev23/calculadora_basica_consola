@@ -33,7 +33,6 @@ while c != '=':
                 res = res / n # División válida
         
 print(f'Resultado: {res}'); # Se imprime el resultado final
-=======
 n = 0  # Variable para el número actual ingresado
 c = ''  # Variable para el operador
 res = 0  # Resultado acumulado de las operaciones
